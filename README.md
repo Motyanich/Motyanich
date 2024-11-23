@@ -15,3 +15,13 @@
 <div id="heythere" align="center"> 
     <h1>Профиль на GITHUB</h1> 
 </div>
+
+### :man_technologist: Обо мне : Меня зовут Матвей
+
+- :sunglasses: Люблю играть в компьютерные игры
+
+- :see_no_evil: По ночам сплю
+
+- :red_car: Увлекаюсь машинами
+
+- 
