@@ -46,3 +46,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matvey Terehin" alt=""/>  
 </div>
 
+### :bar_chart: Статистика активности :
+
+<div> 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nina546654ml&theme=github-compact" alt=""/>  
+</div>
